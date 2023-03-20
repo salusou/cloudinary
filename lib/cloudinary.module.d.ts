@@ -1,3 +1,4 @@
+// @ts-ignore
 import { ModuleWithProviders, InjectionToken } from '@angular/core';
 import { Cloudinary } from './cloudinary.service';
 import CloudinaryConfiguration from './cloudinary-configuration.class';

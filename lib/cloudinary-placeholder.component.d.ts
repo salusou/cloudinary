@@ -1,3 +1,4 @@
+// @ts-ignore
 import { AfterContentChecked, ElementRef, Renderer2 } from '@angular/core';
 import { Cloudinary } from './cloudinary.service';
 export declare class CloudinaryPlaceHolder implements AfterContentChecked {

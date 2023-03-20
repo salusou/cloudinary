@@ -1,3 +1,4 @@
+// @ts-ignore
 import { AfterViewInit, ElementRef } from '@angular/core';
 export declare class LazyLoadDirective implements AfterViewInit {
     private el;

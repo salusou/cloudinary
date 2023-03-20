@@ -1,3 +1,4 @@
+// @ts-ignore
 import { ElementRef, Renderer2, AfterViewInit, QueryList } from '@angular/core';
 import { Cloudinary } from './cloudinary.service';
 import { CloudinaryTransformationDirective } from './cloudinary-transformation.directive';

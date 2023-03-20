@@ -1,3 +1,4 @@
+// @ts-ignore
 import { ElementRef, QueryList, AfterViewInit, OnInit, OnChanges, SimpleChanges, OnDestroy, EventEmitter } from '@angular/core';
 import { Cloudinary } from './cloudinary.service';
 import { CloudinaryTransformationDirective } from './cloudinary-transformation.directive';

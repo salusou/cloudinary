@@ -1,3 +1,4 @@
+// @ts-ignore
 import { QueryList } from '@angular/core';
 import CloudinaryConfiguration from './cloudinary-configuration.class';
 import { CloudinaryTransformationDirective } from './cloudinary-transformation.directive';

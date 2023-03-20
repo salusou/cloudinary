@@ -1,3 +1,4 @@
+// @ts-ignore
 import { ElementRef } from '@angular/core';
 export declare class CloudinaryTransformationDirective {
     private el;
